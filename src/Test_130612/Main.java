@@ -7,11 +7,10 @@ public class Main {
 		System.out.println("Git Study Start.");
 		System.out.println("Project by yykim.");
 		
-		System.out.println("Test aaaaa");
+		System.out.println("Test Study");
 		
 		testClass();
 		
-		System.out.println("2013-06-12 ~");
 	}
 	
 	public static void testClass() {
