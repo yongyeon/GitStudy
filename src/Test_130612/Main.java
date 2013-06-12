@@ -11,6 +11,7 @@ public class Main {
 		
 		testClass();
 		
+		System.out.println("2013-06-12 Study Start");
 	}
 	
 	public static void testClass() {
